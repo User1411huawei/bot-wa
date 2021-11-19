@@ -1,2 +1,0 @@
-# bot-wa
-OL BOT

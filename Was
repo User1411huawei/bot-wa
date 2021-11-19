@@ -1,0 +1,9 @@
+termux-setup-storage
+pkg update -y
+pkg upgrade -y
+pkg install python -y
+pkg install git -y
+git clone https://github.com/User1411huawei/bot-wa-was
+cd bot-wa-was
+bash install.sh
+npm start / node User1411huawei.js
